@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4ce0c15068e582d448b3eb5c332798af
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zen Kaku Gothic New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b24575d5143787645aabc6f697353102, type: 3}
+  - {fileID: 12800000, guid: 55eb36bfab9e7344a8e6874b7eaee91a, type: 3}
+  - {fileID: 12800000, guid: eb15b22a2817b3d4e9dfabdfb0da7b36, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
